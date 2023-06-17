@@ -12,9 +12,9 @@ The goal of this project was to investigate the company’s operations to develo
 The dataset was uploaded to SQL and queries were written to answer the business questions. Power query editor was used to transform the data and ensure they are in the right format. It was then loaded on to Power BI uncover patterns and trends and identify KPIs after which visualisations were created.
 
 # Visualization
- <img width="503" alt="2023-06-17 (9)" src="https://github.com/BOsimiri/Business-Operations-Analysis/assets/93350384/b9868a40-1c3d-4cfd-9437-f3ae214e74bb">
+<img width="503" alt="2023-06-17 (9)" src="https://github.com/BOsimiri/Business-Operations-Analysis/assets/93350384/fa3a22e0-d82a-444d-a17d-15307208a8fc">
 
- <img width="372" alt="2023-03-13 (14)" src="https://github.com/BOsimiri/Business-Operations-Analysis/assets/93350384/08e9294e-eddb-4e40-abb3-8686ac91dc2a">
+<img width="372" alt="2023-03-13 (14)" src="https://github.com/BOsimiri/Business-Operations-Analysis/assets/93350384/3b1382b6-cf02-476d-99c3-4791e2568b9b">
 
 # Key findings and recommendations
 In the reseller channel, the total product cost of bikes were higher than revenue. It was recommended that they review pricing policy and be more cost efficient in sourcing for materials and labour without impacting product quality. 
